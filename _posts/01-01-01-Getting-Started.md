@@ -1,2 +1,2 @@
-# Getting Started {#getting_started_title}
+# آغاز به کار {#getting_started_title}
 
